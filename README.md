@@ -1,6 +1,6 @@
 # sidebands
 
-Python notebook to calculate the spectral sidebands in the output of a sinusoidally driven electro-optic phase modulator or Mach Zehnder interferometer.
+Python notebook to calculate the spectral sidebands in the optical output of a sinusoidally driven electro-optic phase modulator or Mach Zehnder interferometer.
 
 [View notebook on Github](sidebands.ipynb)
 
